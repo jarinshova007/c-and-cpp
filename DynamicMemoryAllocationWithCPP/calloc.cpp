@@ -20,7 +20,6 @@ int main() {
 
     cout << "\n";
 
-
     // for multiple integer
     // scan the number of integer you want to store
     cout << "number of inputs = ";
@@ -36,7 +35,7 @@ int main() {
         cout << ptr2[i] << " ";
     }
 
-     cout << "\n";
+    cout << "\n";
 
     // taking inputs
     cout << "take the input of " << n << " integers:" << endl;
@@ -51,6 +50,5 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << ptr2[i] << "\n";
     }
-
 }
 
